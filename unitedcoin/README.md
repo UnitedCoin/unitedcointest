@@ -1,14 +1,14 @@
-# Dogecoin [DOGE, Ð]
-http://dogecoin.com/
+# Dogecoin [UTC, Ð]
+http://unitedcoin.com/
 
-![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![UnitedCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
-## What is DogeCoin? - Such coin
+## What is UnitedCoin? - Such coin
 Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
-http://dogecoin.com/
+http://unitedcoin.com/
 
 ## License - Much license
-DogeCoin is released under the terms of the MIT license. See [COPYING](COPYING)
+UnitedCoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions - omg developers
@@ -41,7 +41,7 @@ Special reward system: Random block rewards
 
 600,000+ — 10,000 Reward (flat)
 
-### Wow plz make dogecoind
+### Wow plz make unitedcoind
 
     sudo apt-get install build-essential \
                          libssl-dev \
